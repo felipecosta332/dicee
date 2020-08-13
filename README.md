@@ -1,4 +1,4 @@
-# mi_card_flutter
+# Dicee
 
 The Complete 2020 Flutter Development Bootcamp with Dart by Angela Yu. Section 7: Dicee - Building Apps with State
 
